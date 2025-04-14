@@ -23,7 +23,7 @@ public class Exe_02 {
 			
 		//fazendo a soma de todas as notas e depois dividindo, lembrando que () faz o calculo primeiro
 		float medianota = (nota01 + nota02 + nota03 + nota04) / 4;
-		
+	
 		//Mostra o resultado
 		System.out.printf("Média final: %.1f", (medianota));
 		

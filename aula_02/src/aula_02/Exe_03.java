@@ -8,24 +8,24 @@ public class Exe_03 {
 	
 		Scanner leia = new Scanner(System.in); {
 			
-			//perguntado notas
-			System.out.println("Digite seu salário: ");
-			float salario = leia.nextFloat();
+		//perguntado notas
+		System.out.println("Digite seu salário: ");
+		float salario = leia.nextFloat();
 			
-			System.out.println("Digite o valor do adicional noturno: ");
-			float adcnoturno = leia.nextFloat();
+		System.out.println("Digite o valor do adicional noturno: ");
+		float adcnoturno = leia.nextFloat();
 			
-			System.out.println("Digite o valor das horas extras: ");
-			float hrextras = leia.nextFloat();
+		System.out.println("Digite o valor das horas extras: ");
+		float hrextras = leia.nextFloat();
 			
-			System.out.println("Valor dos descontos: ");
-			float desconto = leia.nextFloat();
+		System.out.println("Valor dos descontos: ");
+		float desconto = leia.nextFloat();
 				
-			//fazendo os calculos 
-			float saliquido = salario + adcnoturno + (hrextras * 5) - desconto ;
+		//fazendo os calculos 
+		float saliquido = salario + adcnoturno + (hrextras * 5) - desconto ;
 			
-			//mostrando resultado
-			System.out.printf("Salário liquido: R$%.2f", (saliquido));
+		//mostrando resultado
+		System.out.printf("Salário liquido: R$%.2f", (saliquido));
 				
 		}
 	}
