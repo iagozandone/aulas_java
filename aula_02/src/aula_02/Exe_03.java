@@ -20,12 +20,12 @@ public class Exe_03 {
 			
 			System.out.println("Valor dos descontos: ");
 			float desconto = leia.nextFloat();
-			
+				
 			//fazendo os calculos 
 			float saliquido = salario + adcnoturno + (hrextras * 5) - desconto ;
 			
 			//mostrando resultado
-			System.out.printf("Salário liquido: \nR$ %.2f", (saliquido));
+			System.out.printf("Salário liquido: R$%.2f", (saliquido));
 				
 		}
 	}

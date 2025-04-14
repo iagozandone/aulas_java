@@ -11,7 +11,6 @@ public class Exe_01 {
 	//perguntado salario
 	System.out.println("Digite seu salário: ");
 	float salario = leia.nextFloat();
-	
 	System.out.println("Digite o valor do abono: ");
 	float abono = leia.nextFloat();
 	
@@ -19,7 +18,7 @@ public class Exe_01 {
 	float nvSalario = salario + abono;
 	
 	//mostra o novo salario
-	System.out.printf("Seu novo salário é: \nR$ %.2f", (nvSalario));
+	System.out.printf("Seu novo salário é de: R$%.2f", (nvSalario));
 		
 	}
   }

@@ -8,7 +8,7 @@ public class Exe_04 {
 
 Scanner leia = new Scanner(System.in); {
 			
-			//perguntado notas
+			//Perguntado notas
 			System.out.println("Digite o 1º valor: ");
 			float n1 = leia.nextFloat();
 			
@@ -21,11 +21,11 @@ Scanner leia = new Scanner(System.in); {
 			System.out.println("Digite o 4º valor: ");
 			float n4 = leia.nextFloat();
 			
-			//fazendo os calculos 
+			//Fazendo os calculos 
 			float calculo = (n1*n2) - (n3*n4);
 			
-			//mostrando resultado
-			System.out.printf("Diferença: %.1f", (calculo));
+			//Mostrando resultado
+			System.out.printf("A diferença de entre os produtos é: %.1f", (calculo));
 	}
   }
 }
