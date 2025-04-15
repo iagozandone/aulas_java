@@ -16,6 +16,7 @@ public class Lista_01_exe_01 {
 		float n3 = leia.nextFloat();
 		float soma = (n1 + n2);
 		
+		//Fazendo a soma de A+B 
 		if (soma > n3) {
 			System.out.printf("A soma de A + B é maior que C.");
 		}
