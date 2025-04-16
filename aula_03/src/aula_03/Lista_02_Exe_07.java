@@ -9,9 +9,9 @@ public class Lista_02_Exe_07 {
 		Scanner leia = new Scanner(System.in);
 		
 		//Leia os numeros desejado pelo usuario
-		System.out.println("Digite um numero: ");
+		System.out.println("Digite o primeiro numero: ");
 		float n1 = leia.nextFloat();
-		System.out.println("Digtie outro numero: ");
+		System.out.println("Digtie o segundo numero: ");
 		float n2 = leia.nextFloat();
 
 		//Tabela a ser exibida
