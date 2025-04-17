@@ -14,7 +14,6 @@ public class Lista_02_Exe_07 {
 		System.out.println("Digtie o segundo numero: ");
 		float n2 = leia.nextFloat();
 
-		//Tabela a ser exibida
 		System.out.println("*****************************************************");
 		System.out.println("                    Calculadora                      ");
 		System.out.println("*****************************************************");
@@ -26,7 +25,6 @@ public class Lista_02_Exe_07 {
 		System.out.println("                                                     ");
 		System.out.println("*****************************************************");
 		System.out.println("Digite a opção desejada:                             ");
-		
 		
 		System.out.println("Escolha a operação que deseja: (1 a 4)");
 		int operacao = leia.nextInt();
