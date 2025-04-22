@@ -8,7 +8,7 @@ public class Matrizes {
 
 		Scanner leia = new Scanner(System.in);
 		
-		/*
+		
 		 int matrizInteiros[][] = {{10,15,35},{70,120,140},{50,100,150}};
 		 
 		
@@ -36,7 +36,7 @@ public class Matrizes {
 				System.out.println("Exibir a posição atual: " + valor);
 			}
 		}
-		*/
+		
 		
 		// Matriz irregular
 		
