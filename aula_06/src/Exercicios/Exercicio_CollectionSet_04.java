@@ -12,18 +12,7 @@ public class Exercicio_CollectionSet_04 {
 
 	        // Criando e inicializando o Set com 10 valores inteiros
 	        Set<Integer> numeros = new HashSet<>();
-	        numeros.add(0);
-	        numeros.add(1);
-	        numeros.add(2);
-	        numeros.add(3);
-	        numeros.add(4);
-	        numeros.add(5);
-	        numeros.add(6);
-	        numeros.add(7);
-	        numeros.add(8);
-	        numeros.add(9);
-
-
+	      
 	        // Exibindo os números presentes no Set
 	        System.out.println("Lista de números no Set:");
 	        for (int num : numeros) {
@@ -32,13 +21,13 @@ public class Exercicio_CollectionSet_04 {
 
 	        // Solicitando ao usuário que digite um número
 	        System.out.print("\nDigite o número que você deseja encontrar: ");
-	        int numeroProcurado = leia.nextInt();
+	        int num01 = leia.nextInt();
 
 	        // Verificando se o número digitado está no Set
-	        if (numeros.contains(numeroProcurado)) {
-	            System.out.println("\nO número " + numeroProcurado + " foi encontrado!");
+	        if (numeros.contains(num01)) {
+	            System.out.println("\nO número " + num01 + " foi encontrado!");
 	        } else {
-	            System.out.println("\nO número " + numeroProcurado + " não foi encontrado!");
+	            System.out.println("\nO número " + num01 + " não foi encontrado!");
 	        }
 
 	        leia.close();
