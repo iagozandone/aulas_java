@@ -67,9 +67,8 @@ Este repositório é uma coleção pessoal de estudos. No entanto, se você dese
 
 📞 Contato
 
-GitHub: @iagozandone
-
-LinkedIn: Iago Zandone
+- GitHub: [@iagozandone](https://github.com/iagozandone)
+- LinkedIn: [Iago Zandone](https://www.linkedin.com/in/iagozandone/)
 
 🎯 Objetivo
 
