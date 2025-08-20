@@ -65,10 +65,13 @@ aulas_java/
 
 Este repositório é uma coleção pessoal de estudos. No entanto, se você deseja contribuir com sugestões, melhorias ou correções, fique à vontade para abrir uma issue ou enviar um pull request. Vamos aprender juntos! 🤝
 
-📞 Contato
+## 📞 Contato
 
-- GitHub: [@iagozandone](https://github.com/iagozandone)
-- LinkedIn: [Iago Zandone](https://www.linkedin.com/in/iagozandone/)
+Desenvolvido por Iago Zandone.
+
+* [GitHub](https://github.com/iagozandone)
+* [LinkedIn](https://www.linkedin.com/in/iagozandone)
+* [Portfólio Pessoal](https://iagozandone.github.io/portfolio_fundweb/)
 
 🎯 Objetivo
 
