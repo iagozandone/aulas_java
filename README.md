@@ -1,45 +1,49 @@
-📚 Aulas de Java – Repositório de Estudos
+# 📚 Aulas de Java – Repositório de Estudos
 
 Bem-vindo ao meu repositório de estudos em Java! Aqui, compartilho os códigos e exercícios desenvolvidos durante as aulas, focando no aprendizado prático e na aplicação de conceitos fundamentais da linguagem.
 
-🚀 Sobre o Projeto
+---
+
+## 🚀 Sobre o Projeto
 
 Este repositório contém:
 
-Exercícios práticos: Implementações de conceitos como estruturas de controle, orientação a objetos, coleções, entre outros.
+- **Exercícios práticos**: Implementações de conceitos como estruturas de controle, orientação a objetos, coleções, entre outros.
+- **Projetos pequenos**: Aplicações simples para consolidar o aprendizado.
+- **Desafios pessoais**: Tentativas de resolver problemas propostos em aulas e tutoriais.
 
-Projetos pequenos: Aplicações simples para consolidar o aprendizado.
+---
 
-Desafios pessoais: Tentativas de resolver problemas propostos em aulas e tutoriais.
+## 🧪 Tecnologias Utilizadas
 
-🧪 Tecnologias Utilizadas
+- **Linguagem**: Java
+- **Ambiente de Desenvolvimento**: [Visual Studio Code](https://code.visualstudio.com/) com extensão Java
+- **Gerenciador de Dependências**: [Maven](https://maven.apache.org/) (se aplicável)
 
-Linguagem: Java
+---
 
-Ambiente de Desenvolvimento: Visual Studio Code
- com extensão Java
+## ⚙️ Como Executar
 
-Gerenciador de Dependências: Maven
- (se aplicável)
+1. Clone o repositório:
 
-⚙️ Como Executar
+   ```bash
+   git clone https://github.com/iagozandone/aulas_java.git
 
-Clone o repositório:
+2. Navegue até o diretório do projeto:
 
-git clone https://github.com/iagozandone/aulas_java.git
+   ```bash
+   cd aulas_java
 
+4. Compile e execute os arquivos .java desejados:
 
-Navegue até o diretório do projeto:
+   ```bash
+   javac nomeDoArquivo.java
+   java nomeDoArquivo
 
-cd aulas_java
+## 📂 Estrutura do Repositório
 
-
-Compile e execute os arquivos .java desejados:
-
-javac nomeDoArquivo.java
-java nomeDoArquivo
-
-📂 Estrutura do Repositório
+```plaintext
+aulas_java/
 ├── aula_02/
 │   └── ExemploAula02.java
 ├── aula_03/
@@ -54,6 +58,8 @@ java nomeDoArquivo
 │   └── ExemploAula07.java
 └── helloword/
     └── HelloWorld.java
+```
+
 
 🧠 Contribuindo
 
